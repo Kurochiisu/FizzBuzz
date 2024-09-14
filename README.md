@@ -288,10 +288,10 @@ through the readings and coding homework over the next few of weeks.
 
 ### Task 3.3 Push your latest changes
 
-- [ ] Now that you've made some more changes to your repository, you should repeat the add, commit, push process
+- [x] Now that you've made some more changes to your repository, you should repeat the add, commit, push process
 for any files that you have changed if you haven't done so recently. Remember to include a descriptive commit message!
 
-### Task 3.4 Pulling changes from GitHub
+### Task 3.4 Pulling changes from GitHub HEHEHEHEHE
 
 So far we have only talked about how to *push local changes* to a remote repository on GitHub. In practice, several
 programmers will often be working in the same remote repository. So when one programmer pushes their changes, everyone
@@ -318,7 +318,7 @@ your local repository.
 
 Let's move on to a couple more small programming challenges for you to try out, which are similar to Fizz Buzz.
 
-# Technical interviews  (and Java practice)
+# Technical interviews  (and Java practice) JAJAJAJAJA
 
 Technical interviews for developer internships often have you write
 some code. It usually uses first- and second-year material, and many students
