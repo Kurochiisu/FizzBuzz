@@ -318,7 +318,7 @@ your local repository.
 
 Let's move on to a couple more small programming challenges for you to try out, which are similar to Fizz Buzz.
 
-# Technical interviews  (and Java practice)
+# Technical interviews  (and Java practice) JAJAJAJAJA
 
 Technical interviews for developer internships often have you write
 some code. It usually uses first- and second-year material, and many students
